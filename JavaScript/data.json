@@ -1,0 +1,151 @@
+[
+    {
+    "entryId": 1,
+    "albumName": "You'll Be Fine",
+    "albumArtist": "Hot Mulligan",
+    "yearReleased": "2020",
+    "numberInStock": 12,
+    "purchasePrice": 4.23,
+    "sellPrice": 15
+    },
+
+    {
+    "entryId": 2,
+    "albumName": "Copacetic",
+    "albumArtist": "Knuckle Puck",
+    "yearReleased": "2015",
+    "numberInStock": 4,
+    "purchasePrice": 2.23,
+    "sellPrice": 10
+    },
+
+    {
+    "entryId": 3,
+    "albumName": "Self-Titled",
+    "albumArtist": "Neck Deep",
+    "yearReleased": "2024",
+    "numberInStock": 40,
+    "purchasePrice": 8,
+    "sellPrice": 20
+    },
+
+    {
+    "entryId": 4,
+    "albumName": "Enema Of The State",
+    "albumArtist": "Blink-182",
+    "yearReleased": "1999",
+    "numberInStock": 3,
+    "purchasePrice": 2.35,
+    "sellPrice": 8
+    },
+
+    {
+    "entryId": 5,
+    "albumName": "Self-Titled",
+    "albumArtist": "American Football",
+    "yearReleased": "1999",
+    "numberInStock": 16,
+    "purchasePrice": 3,
+    "sellPrice": 10
+    },
+
+    {
+    "entryId": 6,
+    "albumName": "Peripheral Vision",
+    "albumArtist": "Turnover",
+    "yearReleased": "2015",
+    "numberInStock": 10,
+    "purchasePrice": 4.50,
+    "sellPrice": 10
+    },
+
+    {
+    "entryId": 7,
+    "albumName": "Breathe",
+    "albumArtist": "Tiny Moving Parts",
+    "yearReleased": "2019",
+    "numberInStock": 23,
+    "purchasePrice": 4,
+    "sellPrice": 12
+    },
+
+    {
+    "entryId": 8,
+    "albumName": "We Don't Need To Whisper",
+    "albumArtist": "Angels & Airwaves",
+    "yearReleased": "2006",
+    "numberInStock": 0,
+    "purchasePrice": 2.20,
+    "sellPrice": 6
+    },
+
+    {
+    "entryId": 9,
+    "albumName": "I-Empire",
+    "albumArtist": "Angels & Airwaves",
+    "yearReleased": "2007",
+    "numberInStock": 4,
+    "purchasePrice": 4.20,
+    "sellPrice": 7
+    },
+
+    {
+    "entryId": 10,
+    "albumName": "Pilot",
+    "albumArtist": "Hot Mulligan",
+    "yearReleased": "2018",
+    "numberInStock": 22,
+    "purchasePrice": 5.22,
+    "sellPrice": 8
+    },
+
+    {
+    "entryId": 11,
+    "albumName": "Life's Not Out to Get You",
+    "albumArtist": "Neck Deep",
+    "yearReleased": "2015",
+    "numberInStock": 3,
+    "purchasePrice": 3.52,
+    "sellPrice": 9
+    },
+
+    {
+    "entryId": 12,
+    "albumName": "Dude Ranch",
+    "albumArtist": "Blink-182",
+    "yearReleased": "1997",
+    "numberInStock": 7,
+    "purchasePrice": 4.23,
+    "sellPrice": 8
+    },
+
+    {
+    "entryId": 13,
+    "albumName": "The Weight That You Buried",
+    "albumArtist": "Knuckle Puck",
+    "yearReleased": "2014",
+    "numberInStock": 22,
+    "purchasePrice": 4,
+    "sellPrice": 8
+    },
+
+    {
+    "entryId": 14,
+    "albumName": "A Eulogy for Those Still Here",
+    "albumArtist": "Counterparts",
+    "yearReleased": "2022",
+    "numberInStock": 12,
+    "purchasePrice": 6.29,
+    "sellPrice": 11.23
+    },
+
+    {
+    "entryId": 15,
+    "albumName": "I'm Scared That's All There Is",
+    "albumArtist": "Ben Quad",
+    "yearReleased": "2022",
+    "numberInStock": 14,
+    "purchasePrice": 3.24,
+    "sellPrice": 9.50
+    }
+]
